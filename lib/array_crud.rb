@@ -1,3 +1,3 @@
   create_an_empty_array = []
 
-  array = [1,2,3,4]
+  create_an_array = [1,2,3,4]
